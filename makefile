@@ -11,4 +11,3 @@ test2:
 compare:
 	diff -s data.txt data.bak
 clean:
-	rm
